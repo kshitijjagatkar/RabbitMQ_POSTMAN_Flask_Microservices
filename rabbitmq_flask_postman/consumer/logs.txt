@@ -1,0 +1,1 @@
+['kshitijjagatkar505@gmail.com', 'thisSubFRompostman', '&this is mail body from rabbitmq & postman']process starts at:2022-01-07 17:57:01.181886Mail sent at:2022-01-07 17:57:08.658297process halts/ends by inturrupt:2022-01-07 17:57:09.116866                 process ends at:2022-01-07 17:57:09.117063
